@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>http://10.33.22.80:8888/ipa/GearBest_测试_1.7.0_2017年7月22日15时57分52秒.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://10.33.22.80:8888/57x57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://10.33.22.80:8888/512x512.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>

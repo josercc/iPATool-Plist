@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.33.22.80:8888/ipa/GearBest_测试_1.7.0_2017年8月2日17时33分4秒.ipa</string>
+					<string>http://10.33.22.80:8888/ipa/GearBest_正式_1.6.0_2017年7月11日13时42分8秒.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.globalegrow.gearbest</string>
 				<key>bundle-version</key>
-				<string>1.7.0</string>
+				<string>1.6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
