@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.33.22.80:8888/ipa/GearBest.ipa</string>
+					<string>http://10.33.22.80:8888/ipa/GearBest_测试_1.7.0_2017年7月18日14时53分57秒.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.globalegrow.gearbest</string>
 				<key>bundle-version</key>
-				<string>1.00</string>
+				<string>1.7.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>releaseNotes</key>
 				<string>测试OTA</string>
 				<key>title</key>
-				<string>在线安装测试</string>
+				<string>GearBest</string>
 			</dict>
 		</dict>
 	</array>
