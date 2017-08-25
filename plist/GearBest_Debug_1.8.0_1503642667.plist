@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://0.0.0.0:8888/ipa/GearBest_Debug_1.8.0_1503642667.ipa</string>
+					<string>http://10.33.22.80:8888/ipa/GearBest_Debug_1.8.0_1503642667.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxxxxxxxx.identifier</string>
+				<string>com.globalegrow.gearbest</string>
 				<key>bundle-version</key>
 				<string>1.8.0</string>
 				<key>kind</key>
